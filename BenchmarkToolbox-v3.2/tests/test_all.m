@@ -1,0 +1,12 @@
+test_benchmark;
+test_funchain;
+test_funvec;
+test_gmmclassify;
+test_hclassify;
+test_hu_moments;
+test_knn;
+test_logger;
+test_observations;
+test_taxonomy;
+test_waitbargh;
+test_featureset;
